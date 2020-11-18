@@ -1,0 +1,15 @@
+{
+   "menus":[
+      {
+         "section":"Modules",
+         "items":[
+            {
+               "title":"Service",
+               "icon":"fas fa-align-justify",
+               "url":"\/admin\/service"
+            }
+           
+         ]
+      }
+   ]
+}
